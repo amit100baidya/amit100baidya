@@ -16,9 +16,12 @@
 ![](https://streak-stats.demolab.com/?user=amit100baidya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=amit100baidya&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amit100baidya&theme=tokyonight&no-frame=true&margin-w=10)
-
+## 📌 Featured Projects
+🔹 **World Happiness Index Analysis**  
+👉 [View Project](https://github.com/amit100baidya/world-happiness-analysis)  
+- Explored global happiness factors  
+- Performed correlation and regression analysis  
+- Derived key insights affecting happiness scores  
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
