@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring data analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit100baidya&label=Profile%20views&color=0e75b6&style=flat" alt="amit100baidya" /> </p>
-# 💫 About Me:
+💫 About Me:
 🔭 Currently working on: Air Quality Analysis Project (India) using real-world datasets  <br>🤝 Looking to collaborate on: Data Analysis & Visualization Projects  <br>💡 Looking for help with: Advanced Machine Learning & Deployment  <br>🌱 Currently learning: SQL, Power BI, and Predictive Analytics  <br>💬 Ask me about: Python, Data Cleaning, EDA, and Visualization  <br>⚡ Fun fact: I turn messy datasets into meaningful insights 📊  <br><br>📊 Goal: Become a Data Analyst → Data Scientist  <br>🚀 Focus: Solving real-world problems using data
 
 
